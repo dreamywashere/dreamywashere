@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dreamy
+- 👀 I love discord api
+- 🌱 16
+- 💞️ https://tucans.xyz/
+- 📫 Discord - Dreamy#1234
