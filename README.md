@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamywashere&label=Profile%20views&color=0e75b6&style=flat" alt="dreamywashere" /> </p>
 
-- 🔭 I’m currently working on nothing, im too lazy to code and got rl shit to do srry
+- 🔭 Working on nothing, i have exams..
 
-- 📫 Reach me at **Dreamyy#1337 - Discord**
+- 📫 Reach me at **Dreamy#1001 - Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
