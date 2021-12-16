@@ -5,7 +5,7 @@
 
 - 🔭 Working on nothing, i have exams..
 
-- 📫 Reach me at **Dreamy#1234 - Discord**
+- 📫 Reach me at **Dreamy#1204 - Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
