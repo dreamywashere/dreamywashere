@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamywashere&label=Profile%20views&color=0e75b6&style=flat" alt="dreamywashere" /> </p>
 
-- 🔭 Working on nothing, i have exams..
-
 - 📫 Reach me at **Dreamy#1204 - Discord**
 
 <h3 align="left">Connect with me:</h3>
