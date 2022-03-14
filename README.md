@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamywashere&label=Profile%20views&color=0e75b6&style=flat" alt="dreamywashere" /> </p>
 
-- 📫 Reach me at **Dreamy?#6412 - Discord**
+- 📫 Reach me at **Dreamy#6146 - Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
