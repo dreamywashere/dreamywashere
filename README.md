@@ -1,5 +1,5 @@
 <h1 align="center">Hi i'm Dreamy</h1>
-<h3 align="center">I love discord's api</h3>
+<h3 align="center">I love discord api</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamywashere&label=Profile%20views&color=0e75b6&style=flat" alt="dreamywashere" /> </p>
 
