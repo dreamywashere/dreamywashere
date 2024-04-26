@@ -8,6 +8,3 @@ Python dev
 ![](https://github-readme-stats.vercel.app/api?username=dreamywashere&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dreamywashere&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamywashere&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dreamywashere&icon=5&color=4)](https://visitcount.itsvg.in)
